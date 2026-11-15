@@ -1,38 +1,14 @@
-<h1 align="center">
-  <b>Accanito</b>
-</h1>
+<h1 align="center">Hello, i'm Accanito 👋</h1>
+
+<p align="center">Italian Web Developer</p>
+
+### 🤖 Languages
 
 <p>
-<div align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-d1a01f?style=for-the-badge&logo=JavaScript&logoColor=d1a01f&labelColor=282828">
-    <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=C++&logoColor=98b982&labelColor=282828">
-</div>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,mongodb&perline=6" alt="HTML, CSS, JavaScript, C++, CSS, Next.js, MongoDB" />
 </p>
 
-```JavaScript
-class Accanito extends Profile {
-  constructor() {
-    this.name = "Alberto";
-    this.username = "Accanito";
-    this.location = "Italy";
-    this.languages = ["JavaScript", "Typescript", "Python", "C++"];
-    this.discord = "accanito";
-  }
-  name() {
-    return this.name;
-  }
-}
+### 📬 Contact
 
-const me = new Accanito();
-```
-
-## My Statistics
-
-<br/>
-<p align="left">
-  <a href="https://github.com/raffreddat0/">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=accanito&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=accanito&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
-<br>
+[![Discord](https://img.shields.io/badge/Discord-.accanito-5865F2?logo=discord&logoColor=white)](https://discord.com/users/1056898661365317645)
+[![Email](https://img.shields.io/badge/Email-capiaghi.alberto%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:capiaghi.alberto@gmail.com)
