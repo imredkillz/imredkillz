@@ -56,10 +56,13 @@ Web Developer focused on minimal interfaces, dark UI, and automation.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=imredkillz&theme=tokyo-night&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
+<br />
+
 ---
 
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/imredkillz/README.MD/main/footer.svg" alt="Auto-updated via GitHub Actions" width="724" />
+  <img src="https://img.shields.io/badge/auto--updated-github%20actions-1a1b26?style=flat-square&logo=githubactions&logoColor=7aa2f7&labelColor=16161e" alt="Auto-updated via GitHub Actions" />
+  <img src="https://img.shields.io/badge/theme-tokyo%20night-1a1b26?style=flat-square&logo=visualstudiocode&logoColor=bb9af7&labelColor=16161e" alt="Tokyo Night Theme" />
 </p>
