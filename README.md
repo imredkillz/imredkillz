@@ -3,7 +3,7 @@
 Web Developer focused on minimal interfaces, dark UI, and automation.
 
 - 💻 Currently building: **Minimal web apps & GitHub automations**
-- 🌱 Currently exploring: **TypeScript, Node.js & modern web stacks**
+- 🌱 Currently exploring: **TypeScript, JavaScript & modern web stacks**
 - 💬 How to reach me: **[@accanito](https://discord.com/users/1056898661365317645)** on Discord
 - ⚡ Fun fact: `99 little bugs in the code, take one down, patch it around, 127 little bugs in the code` 🐛
 
@@ -28,7 +28,7 @@ Web Developer focused on minimal interfaces, dark UI, and automation.
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1056898661365317645)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imredkillz)
-[![Last.fm](https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/user/TUO_USERNAME_LASTFM)
+[![Last.fm](https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/user/Capiaghialberto)
 
 ---
 
