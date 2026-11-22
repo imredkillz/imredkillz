@@ -58,6 +58,8 @@ Web Developer focused on minimal interfaces, dark UI, and automation.
 
 ---
 
-<p align="center">
+<br />
+
+<p>
   <img src="./footer.svg" alt="Auto-updated via GitHub Actions" width="724" />
 </p>
