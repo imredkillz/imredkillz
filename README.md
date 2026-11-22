@@ -60,6 +60,10 @@ Web Developer focused on minimal interfaces, dark UI, and automation.
 
 <br />
 
-<p>
-  <img src="./footer.svg" alt="Auto-updated via GitHub Actions" width="724" />
+---
+
+<br />
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/imredkillz/NOME_REPO_SCRIPT/main/footer.svg" alt="Auto-updated via GitHub Actions" width="724" />
 </p>
