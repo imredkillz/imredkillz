@@ -28,13 +28,6 @@ Web Developer focused on minimal interfaces, dark UI, and automation.
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1056898661365317645)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imredkillz)
-[![Last.fm](https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/user/Capiaghialberto)
-
----
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=imredkillz&theme=tokyonight&no-frame=false&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -45,14 +38,6 @@ Web Developer focused on minimal interfaces, dark UI, and automation.
 - 🔹 Zero-bloat workflows & GitHub Actions automation
 
 `TypeScript` · `JavaScript` · `Node.js` · `Web Development` · `Automation` · `Minimal UI`
-
----
-
-## 🎧 Now Listening
-
-<a href="https://www.last.fm/user/Capiaghialberto">
-  <img src="./music.svg" alt="Music" width="360" />
-</a>
 
 ---
 
