@@ -9,7 +9,7 @@ Web Developer focused on minimal interfaces, dark UI, and automation.
 
 ---
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -24,7 +24,7 @@ Web Developer focused on minimal interfaces, dark UI, and automation.
 
 ---
 
-## 🌐 Socials:
+## 🌐 Socials
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1056898661365317645)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imredkillz)
@@ -48,6 +48,31 @@ Web Developer focused on minimal interfaces, dark UI, and automation.
 
 ---
 
-## 📊 GitHub Stats:
+## 🎧 Now Listening
 
-![imredkillz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imredkillz&show_icons=true&theme=tokyonight)
+<a href="https://www.last.fm/user/Capiaghialberto">
+  <img src="./music.svg" alt="Music" width="360" />
+</a>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=imredkillz&show_icons=true&theme=tokyonight&border_color=30363d&count_private=true" alt="imredkillz's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imredkillz&layout=compact&theme=tokyonight&border_color=30363d" alt="Top Languages" height="170" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=imredkillz&theme=tokyonight&border=30363d" alt="GitHub Streak" height="170" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imredkillz&theme=tokyo-night&area=true&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+<p align="center">
+  <img src="./footer.svg" alt="Auto-updated via GitHub Actions" width="724" />
+</p>
