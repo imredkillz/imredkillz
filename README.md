@@ -8,11 +8,11 @@
 
 ---
 
-I'm **[Tuo Nome]**, from Italy 🇮🇹. Scrivi qui la tua breve introduzione.
+I'm **[Accanito]**, from Italy 🇮🇹. Full Stack Developer.
 
-* 🚀 **Building now:** il progetto a cui stai lavorando ora
-* 🌐 **Goal:** il tuo obiettivo principale
-* 🤝 **Open to:** collaborazioni, progetti o freelance
+* 🚀 **Building now:** HeartlessItalia
+* 🌐 **Goal:** Learn Python
+* 🤝 **Open to:** HeartlessItalia
 * 💬 **Any questions?** Feel free to reach out!
 
 <!-- LANGUAGES AND ACTIVITY -->
@@ -33,19 +33,13 @@ I'm **[Tuo Nome]**, from Italy 🇮🇹. Scrivi qui la tua breve introduzione.
 ---
 
 <p align="center">
-  <a href="https://instagram.com/tuo-profilo">
+  <a href="https://instagram.com/alberto_capiaghi">
     <img src="https://img.shields.io/badge/INSTAGRAM-14b8a6?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:tua@email.com">
+  <a href="mailto:capiaghi.alberto@email.com">
     <img src="https://img.shields.io/badge/GMAIL-14b8a6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/tuo-profilo">
-    <img src="https://img.shields.io/badge/LINKEDIN-14b8a6?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://wa.me/tuonumero">
-    <img src="https://img.shields.io/badge/WHATSAPP-14b8a6?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/tuo-id">
+  <a href="https://discord.com/users/1056898661365317645">
     <img src="https://img.shields.io/badge/DISCORD-14b8a6?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
