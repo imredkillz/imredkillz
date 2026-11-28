@@ -8,7 +8,7 @@
 
 ---
 
-I'm **[Accanito]**, from Italy 🇮🇹. Full Stack Developer.
+I'm **Accanito**, from Italy 🇮🇹. Full Stack Developer.
 
 * 🚀 **Building now:** HeartlessItalia
 * 🌐 **Goal:** Learn Python
