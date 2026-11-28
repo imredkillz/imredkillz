@@ -34,13 +34,12 @@ I'm **Accanito**, from Italy 🇮🇹. Full Stack Developer.
 
 <p align="center">
   <a href="https://instagram.com/alberto_capiaghi">
-    <img src="https://img.shields.io/badge/INSTAGRAM-14b8a6?style=for-the-badge&logo=instagram&logoColor=white" /> </a>&nbsp;
+    <img src="https://img.shields.io/badge/INSTAGRAM-14b8a6?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:capiaghi.alberto@email.com">
-    <img src="https://img.shields.io/badge/GMAIL-14b8a6?style=for-the-badge&logo=gmail&logoColor=white" /> </a>&nbsp;
-  </a>
+    <img src="https://img.shields.io/badge/GMAIL-14b8a6?style=for-the-badge&logo=gmail&logoColor=white" />
   <a href="https://discord.com/users/1056898661365317645">
-    <img src="https://img.shields.io/badge/DISCORD-14b8a6?style=for-the-badge&logo=discord&logoColor=white" /> </a>&nbsp;
+    <img src="https://img.shields.io/badge/DISCORD-14b8a6?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
