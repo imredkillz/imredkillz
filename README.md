@@ -21,10 +21,10 @@ I'm **Accanito**, from Italy 🇮🇹. Full Stack Developer.
 ---
 
 <p align="center">
-  <img src="./assets/radar.svg" width="49%" alt="Radar linguaggi" />
-  <img src="./assets/langs.svg" width="49%" alt="Linguaggi principali" />
+  <img src="assets/radar.svg" width="49%" alt="Radar linguaggi" />
+  <img src="assets/langs.svg" width="49%" alt="Linguaggi principali" />
   <br />
-  <img src="./assets/stats.svg" width="99%" alt="GitHub Stats" />
+  <img src="assets/stats.svg" width="99%" alt="GitHub Stats" />
 </p>
 
 <!-- CONTACTS -->
